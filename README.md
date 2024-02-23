@@ -45,7 +45,7 @@ To get started with this repository, follow these steps:
  ```bash
     langchain serve 
     action-server start 
-    ```
+ ```
 
 ### Documentation
 
