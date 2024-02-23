@@ -41,6 +41,7 @@ To get started with this repository, follow these steps:
 
 5. **Running Actions**: Execute the predefined actions as needed. Each action is designed as a standalone function that can be triggered independently.
 
+
  ```bash
     langchain serve #Running Langchain Application Server
     action-server start #Start Action Server
