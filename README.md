@@ -46,9 +46,10 @@ To get started with this repository, follow these steps:
     action-server start #Start Action Server
     ```
 
+
 ### Documentation
 
-For detailed guidance on creating and deploying AI actions using Robocorp, refer to the official [Robocorp documentation](https://robocorp.com/docs/).
+For detailed guidance on creating and deploying AI actions using Robocorp, please take a look at the official [Robocorp documentation](https://robocorp.com/docs/).
 
 
 Please note: This repository is a template and requires customization to fit your specific use case. Ensure you review and modify the actions according to your application's needs.
