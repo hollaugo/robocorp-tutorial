@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: langchain-robocorp
+Version: 0.0.2
+Summary: An integration package connecting Robocorp and LangChain
+Home-page: https://github.com/langchain-ai/langchain
+License: MIT
+Requires-Python: >=3.8.1,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: langchain-core (>=0.0.12)
+Requires-Dist: langsmith (>=0.0.83,<0.1)
+Requires-Dist: requests (>=2.31.0,<3.0.0)
+Requires-Dist: types-requests (>=2.31.0.20231231,<3.0.0.0)
+Project-URL: Repository, https://github.com/langchain-ai/langchain
+Project-URL: Source Code, https://github.com/langchain-ai/langchain/tree/master/libs/partners/robocorp
+Description-Content-Type: text/markdown
+
+# langchain-robocorp
+
+This package contains the LangChain integrations for [Robocorp](https://github.com/robocorp/robocorp).
+
+## Installation
+
+```bash
+pip install -U langchain-robocorp
+```
+
+## Action Server Toolkit
+
+See [ActionServerToolkit](https://python.langchain.com/docs/integrations/toolkits/robocorp) for detailed documentation.
+
