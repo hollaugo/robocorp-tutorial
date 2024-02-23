@@ -43,8 +43,8 @@ To get started with this repository, follow these steps:
 
 
  ```bash
-    langchain serve #Running Langchain Application Server
-    action-server start #Start Action Server
+    langchain serve 
+    action-server start 
     ```
 
 ### Documentation
